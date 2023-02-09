@@ -1,0 +1,21 @@
+#Print Hello World
+print ("Hello World")
+
+#Populate a list and then print 1 item
+big_mac = ["Two All-Beef Patties", "Special Sauce", "Lettuce", "Cheese", "Pickles", "Onions"]
+
+print(big_mac[2])
+
+#Create a dictionary with 2 keys&values, print 1 of them
+container = {"Taco" : "Flour Tortilla", 
+             "Burger" : "Seasame Seed Bun"}
+
+print(container["Taco"])
+
+#Create a tuple with 4 values, print 1 of them
+taco = ("Beef", "Sour Cream", "Lettuce", "Cheese")
+
+print(taco[1])
+
+#Just for fun:
+print (*big_mac, "on a", container["Burger"]+'.')
