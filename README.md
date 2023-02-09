@@ -1,2 +1,1 @@
-# Start
-Knowledge Checks for Data Analysis
+# Knowledge Checks for Data Analysis
